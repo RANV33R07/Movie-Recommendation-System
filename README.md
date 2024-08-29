@@ -2,7 +2,10 @@
 
 Here’s a demo video showcasing the Movie Recommendation System:
 
-https://drive.google.com/file/d/1DwccGL1kxRLQs1BNo2vJXSOKCoIUThf5/preview
+## Movie Recommendation System Demo
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1DwccGL1kxRLQs1BNo2vJXSOKCoIUThf5/view?usp=sharing)
+
 
 
 
