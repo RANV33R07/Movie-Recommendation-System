@@ -4,7 +4,7 @@ Here’s a demo video showcasing the Movie Recommendation System:
 
 ## Movie Recommendation System Demo
 
-[![Watch the video](https://asciinema.org/a/113463.png)](https://drive.google.com/file/d/1DwccGL1kxRLQs1BNo2vJXSOKCoIUThf5/view?usp=sharing)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1DwccGL1kxRLQs1BNo2vJXSOKCoIUThf5/view?usp=sharing)
 
 
 
