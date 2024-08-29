@@ -1,7 +1,9 @@
-# Movie Recommendation System
-#Demo
+## Movie Recommendation System Demo
 
-https://drive.google.com/file/d/1DwccGL1kxRLQs1BNo2vJXSOKCoIUThf5/preview
+Here’s a demo video showcasing the Movie Recommendation System:
+
+<iframe src="https://drive.google.com/file/d/1DwccGL1kxRLQs1BNo2vJXSOKCoIUThf5/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 
 
